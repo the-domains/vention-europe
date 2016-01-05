@@ -1,0 +1,28 @@
+name: Vention Europe
+favicon: null
+layout_spectrum: 0.42959801317192614
+typography_spectrum: 0.2209098394960165
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6526952621061355
+  lightness: 0.7518916996195912
+  saturation: 0.2273191139101982
+  rhythmicContrast: 0.8485721105244011
+purpose: []
